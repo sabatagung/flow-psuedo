@@ -1,0 +1,11 @@
+create variable string food place
+create variable string food name
+create variable integer total food 
+
+create variable string destination
+
+payment method
+if cash : bayar ditempat
+else cashless : langsung bayar via va
+
+finish order
